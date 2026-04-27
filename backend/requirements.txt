@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+kafka-python
+redis
+psycopg2-binary
+river==0.15.0
+prometheus-client
+python-multipart
+joblib
+
+imbalanced-learn
+scipy
